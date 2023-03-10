@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a2e881738b2b2439150d0af4b82b15, type: 3}
+  m_Name: Girdi_Listesi
+  m_EditorClassIdentifier: 
+  ileriTusuA: 119
+  ileriTusuB: 273
+  geriTusuA: 115
+  geriTusuB: 274
+  sagTusuA: 100
+  sagTusuB: 275
+  solTusuA: 97
+  solTusuB: 276
+  kosmaTusuA: 304
+  kosmaTusuB: 303
+  egilmeTusuA: 306
+  egilmeTusuB: 305
+  atesEtmeTusuA: 323
+  atesEtmeTusuB: 0

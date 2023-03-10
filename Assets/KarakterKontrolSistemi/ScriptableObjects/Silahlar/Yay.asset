@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3fec0127f8eeb974babb6aa607a7e52d, type: 3}
+  m_Name: Yay
+  m_EditorClassIdentifier: 
+  silahIsmi: Yay
+  silahAciklamasi: Uzak Menzilli Silah
+  silahTuru: 2
+  silahHasarMiktari: 0
+  silahModeli: {fileID: 6370991604353279615, guid: eb24234de5a1afe4e9e4ab81e6917c6f, type: 3}
+  silahTasarimi: {fileID: 0}
+  silahMenzili: 500
+  kursunSayisi: 15
+  kursun: {fileID: 7239395806858624500, guid: 21a946173df96304e84aa3653ec1dab4, type: 3}

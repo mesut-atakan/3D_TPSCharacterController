@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 78c7b42ad03eb304fa104b03ee33c7b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - karakter: {fileID: 11400000, guid: 67f70d467e0cb164c817d8e43cdc1727, type: 2}
+  - characterController: {instanceID: 0}
+  - silahKontrolleri: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - girdiler: {instanceID: 0}
+  - camera: {instanceID: 0}
+  - animator: {instanceID: 0}
+  - animationKontrol: {instanceID: 0}
+  - silahPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
